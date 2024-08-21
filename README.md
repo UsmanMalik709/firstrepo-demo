@@ -1,3 +1,4 @@
 # firstrepo-demo
+
 this is my first repository
-Author-usman
+Author-usman(developer)
